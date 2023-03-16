@@ -1,10 +1,15 @@
 ---
 title: "JavaScript Fundamentals"
 date: 2021-11-08T15:31:03+13:00
-draft: true
+draft: false
 ---
 
- 
+menu:
+  sidebar:
+    name: JavaScript Fundamental
+    identifier: javaScriptfundamental
+    parent: java-script
+    weight: 10
 
 
 ### statment  

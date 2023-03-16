@@ -1,0 +1,44 @@
+# section information
+section:
+    name: Skills
+    id: skills
+    enable: true
+    weight: 2
+    showOnNavbar: true
+    # Can optionally hide the title in sections
+    # hideTitle: true
+  
+  # Your Skills.
+  # Give a summary of you each skill in the summary section.
+skills:
+  - name: AWS
+    logo: /images/aws.svg
+    summary: "Expertise in deploying and managing applications on AWS, as well as programming in multiple languages."
+    url: "https://aws.amazon.com/free/?trk=f181118c-0869-454a-84d2-63d0cf7146e3&sc_channel=ps&s_kwcid=AL!4422!3!638125895456!e!!g!!aws&ef_id=CjwKCAjw_MqgBhAGEiwAnYOAeixKA-tvE9xNpB1YB9DDIU7xOWiD5w2eyVKtAObNoIJQbicLBok2PRoCm0wQAvD_BwE:G:s&s_kwcid=AL!4422!3!638125895456!e!!g!!aws"
+  
+  - name: PHP Development
+    logo: /images/php.svg
+    summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+    url: "https://php.net/"
+  
+
+  - name: React Development
+    logo: /images/react.svg
+    summary: "Responsible for the design and implementation of user interfaces (UIs) and UI components using React, a front-end JavaScript library."
+    url: "https://reactjs.org/"
+
+
+  - name: TypeScript Development
+    logo: /images/typescript.svg
+    summary: "Design and implement intuitive UI strategies in collaboration with the business analytics, project managers, and back-end developers"
+    url: "https://www.typescriptlang.org/"
+
+
+  - name: GO Development
+    logo: /images/go.svg
+    summary: "Capable of writing scalable, testable, and maintainable program."
+    url: "https://golang.org/"
+
+
+
+   

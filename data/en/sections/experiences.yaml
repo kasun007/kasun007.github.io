@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+ 
+
+- company:
+    name: Smartleader Diagnostics.
+    url: "https://smartleaderacademy.com/"
+    location: Britomart
+    overview: Smartleader Diagnostics (SLD) is responsible for providing leading-edge team diagnostic tools.
+  positions:
+  - designation: Intermediate Full stack Developer (PHP)
+    start: March 2019
+     
+    responsibilities:
+    - Collaborate with designers, developers, and project managers to develop and deliver high-quality web applications.
+    - Write and maintain technical documentation and user manuals.
+    - Debug and troubleshoot issues in existing code and resolve technical problems that arise during development.
+    - Develop and integrate APIs with third-party services
+
+- company:
+    name: Smartleader Diagnostics
+    url: "https://smartleaderacademy.com/"
+    location: Britomart
+    overview: Smartleader Diagnostics (SLD) is responsible for providing leading-edge team diagnostic tools.
+  positions:
+  - designation: Intern IOS Developer
+    start: Oct 2018
+    end: Oct 2019
+    

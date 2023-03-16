@@ -1,7 +1,14 @@
 ---
 title: "Higher Order Component"
 date: 2021-11-07T15:31:03+13:00
-draft: true
+
+menu:
+  sidebar:
+    name: Higher Order Component
+    identifier: hoc
+    parent: java-script
+    weight: 10
+
 ---
 
 ### why we need Higher Order Compnents

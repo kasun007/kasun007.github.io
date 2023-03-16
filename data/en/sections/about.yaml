@@ -1,0 +1,90 @@
+# section information
+section:
+    name: About
+    id: about
+    enable: true
+    weight: 1
+    showOnNavbar: true
+    template: sections/about.html
+  
+  # your designation
+designation: Software Engineer
+  # your company information
+company:
+    name: Smartleader Diagnostics
+    url: "https://smartleaderacademy.com/"
+  
+  # your resume. this file path should be relative to you "static" directory
+  # Dreprecated. Use resourceLinks instead.
+  # resume: "files/resume.pdf"
+  
+  # a summary about you
+summary: 'I am currently employed at Smartleader Diagnostics, where I am involved in the development of leadership-based software. With over 3 years of experience in PHP, I have gained a solid foundation in this programming language'
+  
+  # your social links
+  # give as many as you want. use font-awesome for the icons.
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "example@gmail.com"
+  
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/example"
+  
+  - name: Stackoverflow
+    icon: "fab fa-stack-overflow"
+    url: "#"
+  
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "#"
+  
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "#"
+  
+  - name: Facebook
+    icon: "fab fa-facebook"
+    url: "#"
+  
+  - name: Mastadon
+    icon: "fab fa-mastodon"
+    url: "#"
+    rel: "me noopener"
+  
+  # You can put custom buttons to link your relevant resources.
+  # For example, you can put link for your resume.
+resourceLinks:
+  - title: "My Resume"
+    url: "files/resume.pdf"
+  
+  # Show your badges
+  # You can show your verifiable certificates from https://www.credly.com.
+  # You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+ 
+  
+   
+  
+ 
+  - type: soft-skill-indicator
+    name: Leadership
+    percentage: 85
+    color: blue
+  
+  - type: soft-skill-indicator
+    name: Team Work
+    percentage: 90
+    color: yellow
+  
+  - type: soft-skill-indicator
+    name: Hard Working
+    percentage: 85
+    color: orange
+  
+  # you can also provide color code instead of the color name
+  # - type: soft-skill-indicator
+  #   name: Example 1
+  #   percentage: 75
+  #   color: "#00adb5"

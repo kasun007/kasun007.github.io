@@ -1,7 +1,17 @@
 ---
 title: "Iterators and Generators"
 date: 2021-11-07T15:31:03+13:00
-draft: true
+ 
+
+menu:
+  sidebar:
+    name: Iterators and Generators
+    identifier: iterators_and_generators
+    parent: java-script
+    weight: 10
+
+---
+
 ---
 
 

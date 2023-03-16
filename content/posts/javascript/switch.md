@@ -1,7 +1,15 @@
 ---
 title: "Alternatives to Switch statment"
 date: 2021-11-07T15:31:03+13:00
-draft: true
+draft: false
+
+menu:
+  sidebar:
+    name: JavaScript Fundamental
+    identifier: switch
+    parent: java-script
+    weight: 10
+
 ---
 
 ### What is the switch statement?

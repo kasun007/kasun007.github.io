@@ -1,7 +1,9 @@
 baseURL = "https://hugo-toha.github.io"
 languageCode = "en-us"
-title = "John's Blog"
-theme = "toha'"
+title = "Kasun HUB"
+theme = "toha"
+dark-mode = true
+
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
@@ -33,6 +35,11 @@ enableEmoji = true
   gitRepo = "https://github.com/hugo-toha/hugo-toha.github.io"
   gitBranch = "main"
 
+ 
+
+
+  background = "images/img2.wallspic.com-purple-tech-electric_blue-youtube-water-6000x4000.jpg"
+
   # specify whether you want to write some blog posts or not
   enableBlogPost = true
 
@@ -41,6 +48,8 @@ enableEmoji = true
 
   # specify whether you want the language flags to be displayed. 
   showFlags =true
+
+ 
 
   # Provide newsletter configuration. 
   # This feature has been implemented for Mailchimp only for now.
@@ -52,3 +61,14 @@ enableEmoji = true
     provider = "mailchimp"
     # specify the target URL for the subscription form
     mailchimpURL= "https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e"
+
+
+     
+             # Enable dark theme
+    [darkMode]
+      enable = true
+      [services]
+        [darkreader]
+          defaultColorScheme = 'system' # options are 'system', 'dark', 'light'
+          [fixes]
+            invert = ['img[src$=".svg"]'] # inverts svg colors.
