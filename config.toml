@@ -15,7 +15,7 @@ dark-mode = true
 
 # Control TOC depth
 [markup]
-  [tableOfContents] 
+  [tableOfContents]
     startLevel = 2
     endLevel = 6
     ordered =false
