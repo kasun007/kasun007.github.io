@@ -38,7 +38,8 @@ enableEmoji = true
  
 
 
-  background = "images/img2.wallspic.com-purple-tech-electric_blue-youtube-water-6000x4000.jpg"
+  # background = "images/img2.wallspic.com-purple-tech-electric_blue-youtube-water-6000x4000.jpg"
+  # background = "apple-touch-icon-144-precomposed.png"
 
   # specify whether you want to write some blog posts or not
   enableBlogPost = true
