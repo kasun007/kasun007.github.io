@@ -26,32 +26,18 @@ summary: 'I am currently employed at Smartleader Diagnostics, where I am involve
 socialLinks:
   - name: Email
     icon: "fas fa-envelope"
-    url: "example@gmail.com"
+    url: "kwickramanayake007git@gmail.com"
   
   - name: Github
     icon: "fab fa-github"
-    url: "https://www.github.com/example"
+    url: "https://github.com/kasun007"
   
-  - name: Stackoverflow
-    icon: "fab fa-stack-overflow"
-    url: "#"
-  
+ 
   - name: LinkedIn
     icon: "fab fa-linkedin"
-    url: "#"
+    url: "https://www.linkedin.com/in/kasun-wickramanayake-5ba94b5b/"
   
-  - name: Twitter
-    icon: "fab fa-twitter"
-    url: "#"
   
-  - name: Facebook
-    icon: "fab fa-facebook"
-    url: "#"
-  
-  - name: Mastadon
-    icon: "fab fa-mastodon"
-    url: "#"
-    rel: "me noopener"
   
   # You can put custom buttons to link your relevant resources.
   # For example, you can put link for your resume.
