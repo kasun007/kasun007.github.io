@@ -2,7 +2,7 @@
 title: "Higher Order Component"
 date: 2021-11-07T15:31:03+13:00
 draft: false
-hero: "/images/php.png"
+hero: "/images/javascript-drawbacks.jpeg"
 menu:
   sidebar:
     name: Higher Order Component
